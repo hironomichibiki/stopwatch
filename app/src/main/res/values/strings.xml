@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">stopwatch</string>
+    <string name="timer_zero">timer_zero</string>
+    <string name="command_start">command_start</string>
+    <string name="command_stop">command_stop</string>
+    <string name="command_reset">command_reset</string>
+</resources>
